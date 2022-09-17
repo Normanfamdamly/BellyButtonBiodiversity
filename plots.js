@@ -30,4 +30,3 @@ function init() {
       PANEL.append("h6").text(result.location);
     });
   }
-
